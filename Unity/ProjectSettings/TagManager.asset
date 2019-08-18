@@ -13,14 +13,14 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Background
+  - Player
+  - Enemy
+  - Thin Ground
+  - Obstacle
+  - Interactables
+  - Death
   - 
   - 
   - 
@@ -44,9 +44,21 @@ TagManager:
   - name: Background
     uniqueID: 1914988307
     locked: 0
+  - name: Enemy
+    uniqueID: 3808771097
+    locked: 0
   - name: Player
     uniqueID: 1753395223
     locked: 0
   - name: Foreground
     uniqueID: 1210877671
+    locked: 0
+  - name: Thin Foreground
+    uniqueID: 2477140015
+    locked: 0
+  - name: Obstacle
+    uniqueID: 1836958607
+    locked: 0
+  - name: Interactables
+    uniqueID: 1795468095
     locked: 0
